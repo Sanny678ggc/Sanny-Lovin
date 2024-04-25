@@ -1,9 +1,9 @@
 {
-	"email": "",
-	"password": "",
+	"email": "sannyvai591146@gmail.com",
+	"password": "sanny2222",
 	"adminOnly": false,
-	"adminBot": [],
-	"nickNameBot": "",
+	"adminBot": 100057678948022,
+	"nickNameBot": "SANNY-ROBOT",
 	"prefix": "#",
 	"database": {
 		"type": "local",
